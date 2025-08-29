@@ -1,0 +1,62 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Story Script", sans-serif;
+}
+#topoContainer{
+    width: 980px;
+    height: 200px;
+    margin: auto;
+    background-color: rgb(188, 66, 66);
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-color: rgb(164, 8, 8);
+}
+#menu{
+    width: 780px;
+    height: 200px;
+    float: right;
+    background-color: rgb(75, 1, 1);
+    text-align: center;
+    word-spacing: 10px;
+}
+#menu a{
+    color: aliceblue;
+    text-decoration: none;
+}
+#banner{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(164,19,18);
+    margin: auto;
+    margin-top: 50px;
+}
+#conteudoSite{
+    width: 980px;
+    height: 500px;
+    background-color:rgb(71, 4, 4); 
+    margin: auto;
+    margin-top: 50px;
+}
+#esquerda{
+    width: 450px;
+    height: 500px;
+    float: left;
+    background-color: rgb(59, 31, 31);
+}
+#direita{
+    width: 450px;
+    height: 500px;
+    background-color: rgb(52, 14, 14);
+    float: right;
+}
+#rodape{
+    width: 980px;
+    height: 200px;
+    background-color: rgb(134, 34, 34);
+    margin: auto;
+    margin-top: 50px;
+}
