@@ -32,6 +32,9 @@
     text-decoration: none;
     margin-top: 20px;
 }
+#menu a:hover{
+    color:rgb(128, 0, 255);
+}
 .espacoTopo{
     padding-top: 20px;
 }
